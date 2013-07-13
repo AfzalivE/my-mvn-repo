@@ -17,6 +17,7 @@ And you can use the artifacts like this:
         compile "com.jeremyfeinstein:slidingmenu:1.3-SNAPSHOT"
         compile "de.keyboardsurfer:crouton:1.8.1"
         compile "com.loopj:android-async-http:1.4.3"
+        compile "com.android:volley:1.0"
     }
 
 Notes
