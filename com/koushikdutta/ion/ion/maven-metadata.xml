@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.koushikdutta.ion</groupId>
+  <artifactId>ion</artifactId>
+  <version>1.1.6-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.1.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130723025340</lastUpdated>
+  </versioning>
+</metadata>
