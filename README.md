@@ -13,13 +13,15 @@ Add the repository to your build.gradle file:
 And you can use the artifacts like this:
 
     dependencies {
-        compile "com.actionbarsherlock:actionbarsherlock:4.3.2-SNAPSHOT"
         compile "com.jeremyfeinstein:slidingmenu:1.3-SNAPSHOT"
         compile "de.keyboardsurfer:crouton:1.8.1"
+        compile "com.koushikdutta.ion:ion:1.1.6-SNAPSHOT"
         compile "com.loopj:android-async-http:1.4.3"
         compile "com.android:volley:1.0"
     }
 
 Notes
 ======
-    SlidingMenu in this repo is uses SherlockFragmentActivity instead of FragmentActivity
+    SlidingMenu in this repo is uses now uses the support FragmentActivity
+    
+    ActionBarSherlock was removed and SlidingMenu was reverted to original so that AppCompat library can be used.
