@@ -19,6 +19,7 @@ And you can use the artifacts like this:
         compile "com.loopj:android-async-http:1.4.3"
         compile "de.keyboardsurfer:crouton:1.8.1"
         compile "uk.co.senab:photoview:1.2.1"
+        compile "com.bumptech:glide:1.0.0"
     }
 
 Notes
