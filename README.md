@@ -20,6 +20,7 @@ And you can use the artifacts like this:
         compile "de.keyboardsurfer:crouton:1.8.1"
         compile "uk.co.senab:photoview:1.2.1"
         compile "com.bumptech:glide:1.0.0"
+        compile "org.sufficientlysecure:donations:2.0.0"
     }
 
 Notes
