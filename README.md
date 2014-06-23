@@ -17,6 +17,7 @@ And you can use the artifacts like this:
         compile "com.jeremyfeinstein:slidingmenu:1.3-SNAPSHOT"
         compile "com.echo.holographlibrary:HoloGraphLibrary:1.0"
         compile "com.jjoe64:GraphView:3.1.2-SNAPSHOT"
+        compile "com.akexorcist:bluetoothspp:1.0.0"
     }
 
 Notes
