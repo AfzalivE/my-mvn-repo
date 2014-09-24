@@ -13,11 +13,12 @@ Add the repository to your build.gradle file:
 And you can use the artifacts like this:
 
     dependencies {
-        compile "com.android:volley:1.0"
-        compile "com.jeremyfeinstein:slidingmenu:1.3-SNAPSHOT"
-        compile "com.echo.holographlibrary:HoloGraphLibrary:1.0"
-        compile "com.jjoe64:GraphView:3.1.2-SNAPSHOT"
-        compile "com.akexorcist:bluetoothspp:1.2"
+        compile 'com.activeandroid:activeandroid:3.1-SNAPSHOT'
+        compile 'com.akexorcist:bluetoothspp:1.2'
+        compile 'com.android:volley:1.0'
+        compile 'com.echo.holographlibrary:HoloGraphLibrary:1.0'
+        compile 'com.jeremyfeinstein:slidingmenu:1.3-SNAPSHOT'
+        compile 'com.jjoe64:GraphView:3.1.2-SNAPSHOT'
     }
 
 Notes
